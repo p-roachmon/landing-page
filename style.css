@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto';font-size: 22px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: #1F2937;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.footer {
+    background-color: #1F2937;
+}
+
+ul {
+    list-style: none;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+.title {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 900;
+
+}
