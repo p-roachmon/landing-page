@@ -219,6 +219,47 @@ a {
     margin-bottom: 83px;
 }
 
-.quote-section {
+.call2action {
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 4px;
+    margin: 47px;
+    padding: 33px 73px;
+    /* justify-content: space-between; */
+    gap: 47px;
+   
+}
+
+.c2a {
+    color: white;
+    font-weight: 500;
+}
+
+.c2a_text {
+    color: white;
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 12px;
+    font-weight: 200;
+    padding: 42px;
+}
+
+.sign-up2 {
+    display: flex;
+    border: 2px solid white;
+    justify-content: center;
+    max-width: 25%;
+    border-radius: 6px; 
+    padding: 8px 30px;
+    background-color: #3882F6;
+    color: white;
+    align-items: center;
     
 }
